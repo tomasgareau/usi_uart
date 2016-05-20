@@ -1,6 +1,8 @@
 Half-duplex UART using the USI module for the attiny85, based on Atmel
 application note AVR307.
 
+See "echo.c" for an example program that implements a simple echo function.
+
 See "usi_uart.h" for constant definitions & prototypes. A brief description:
 
     > reverse_byte
